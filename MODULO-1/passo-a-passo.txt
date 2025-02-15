@@ -1,0 +1,15 @@
+> dir (Confirmar o diretório atual e suas pastas)
+> cd modulo1/
+> mkdir ./exercicio
+> dir (Para validar o diretório criado)
+> cd exercicio/
+> nano login.sh
+> cat >> login.sh
+> echo "Script execudado com sucesso"
+> C^
+> ll (Verificar arquivos e suas permissões)
+> chmod 744 login.sh
+
+7 = Permissão total para o propetário
+4 = Somente leitura para outros usuário do grupo
+4 = Somente leitura para outros usuários fora do grupo
