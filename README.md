@@ -8,3 +8,8 @@ Repositório para exercícios e projetos do curso de Análise de Dados da EBAC (
    ```sh
    git clone https://github.com/htamdev/ANALISE-DE-DADOS-EBAC.git
    cd ANALISE-DE-DADOS-EBAC
+
+## 📬 Contribuições
+
+Sugestões de melhorias e correções são bem-vindas! Para contribuir, abra uma issue ou envie um pull request no repositório.
+
