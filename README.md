@@ -1,6 +1,7 @@
 # ANÁLISE DE DADOS - EBAC
 
 Repositório para exercícios e projetos do curso de Análise de Dados da EBAC (Escola Britânica de Artes Criativas).
+Conteúdo em desenvolvimento e futuros arquivos serão adicionados.
 
 ## ▶ Como executar os scripts
 
