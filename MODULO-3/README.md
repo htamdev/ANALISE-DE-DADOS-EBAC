@@ -1,3 +1,5 @@
+Agora entendi! Vou colocar tudo em formato de `README.md` para o GitHub, sem adicionar nada extra fora do que você pediu. Aqui está:
+
 # Calculadora em Python
 
 Esse projeto é uma calculadora simples feita em Python para realizar operações matemáticas básicas direto no terminal.
@@ -44,5 +46,5 @@ Sugestões de melhorias e correções são bem-vindas! Para contribuir, abra uma
 
 ---
 
-✍ **Autor:** Matheus C. Souza
+✍ **Autor:** Matheus C. Souza  
 📂 **GitHub:** [htamdev](https://github.com/htamdev)
