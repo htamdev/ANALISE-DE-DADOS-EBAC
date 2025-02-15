@@ -11,13 +11,12 @@ Repositório para exercícios e projetos do curso de Análise de Dados da EBAC (
 
 ## 🛠 Estrutura do repositório
 
-ANALISE-DE-DADOS-EBAC/
-│
-├── MODULO-1/EXERCICIO
-├── MODULO-2
-└── MODULO-3
+ANALISE-DE-DADOS-EBAC/<br>
+├── MODULO-1/EXERCICIO<br>
+├── MODULO-2<br>
+└── MODULO-3<br>
 
-📌 Requisitos
+## 📌 Requisitos
 
     Python 3.x
 
